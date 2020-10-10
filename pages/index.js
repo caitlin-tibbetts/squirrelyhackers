@@ -8,7 +8,7 @@ export default () => (
     <Layout>
         <div>
             <Banner />
-            <ChatBot id='chat'/>
+            {/* <ChatBot id='chat'/> */}
         </div>
     </Layout>
 )
