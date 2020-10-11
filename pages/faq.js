@@ -4,24 +4,14 @@ import Layout from "../components/Layout";
 import Banner from "../components/Banner";
 import ChatBot from "../components/ChatBot";
 
-<style>
-/*FAQS*/
-.faq_question {
-    margin: 0px;
-    padding: 0px 0px 5px 0px;
-    display: inline-block;
-    cursor: pointer;
-    font-weight: bold;
-}
-</style>
 
 export default () => (
   <Layout>
     <section id="banner" className="major">
       <div className="inner">
         <div className="content">
-          <div class="faq_question">Question goes here</div>
-          hi
+          <h2>What is Grant Routes?</h2>
+          <h4>Grant Routes aims to help women entrepreneurs and small business owners grow their businesses by providing easy access to resources, mentorships, and capital opportunities.</h4>
         </div>
       </div>
     </section>
