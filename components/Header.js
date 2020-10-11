@@ -15,7 +15,7 @@ const Header = (props) => (
         <Link href="/mentors">
             Our Mentors
         </Link>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <Link href="/faq">
             F.A.Q
         </Link>
