@@ -11,6 +11,9 @@ const Header = (props) => (
         <Link href="/resources">
             Resource Submission
         </Link>
+        <Link href="/faq">
+            F.A.Q
+        </Link>
     </header>
 )
 
