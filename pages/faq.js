@@ -21,7 +21,6 @@ export default () => (
       <div className="inner">
         <div className="content">
           <div class="faq_question">Question goes here</div>
-          </div>
           hi
         </div>
       </div>
