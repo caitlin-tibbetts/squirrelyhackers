@@ -35,9 +35,9 @@ class Mentors extends Component {
         caption: "Kim-Nhi Ngo"
       },
       {
-        src: "https://c4.staticflickr.com/9/8887/28897124891_98c4fdd82b_b.jpg",
+        src: "../static/images/IMG_3266.jpg",
         thumbnail:
-          "https://c4.staticflickr.com/9/8887/28897124891_98c4fdd82b_n.jpg",
+          "../static/images/IMG_3266.jpg",
         thumbnailWidth: 640,
         thumbnailHeight: 424,
         caption: "Samridhi Ganguly"
