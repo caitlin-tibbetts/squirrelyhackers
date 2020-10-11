@@ -15,7 +15,7 @@ class Mentors extends Component {
         "../static/images/IMG_20200814_134836.jpg",
         thumbnailWidth: 400,
         thumbnailHeight: 300,
-        caption: "Caitlin Tibbetts"
+        caption: "Caitlin Tibbetts - Senior in Computer Science at the University of Texas at Dallas, not skilled in business, but wants to be one day"
       },
       {
         src: "../static/images/nicole.jpg",
@@ -23,7 +23,7 @@ class Mentors extends Component {
           "../static/images/nicole.jpg",
         thumbnailWidth: 720,
         thumbnailHeight: 960,
-        caption: "Nicole Daigle"
+        caption: "Nicole Daigle - Junior in Computer Science at the University of Texas at Dallas, minoring in Business Administration. Enthusiastic about women in STEM and business and the convergence of the fields"
       },
 
       {
@@ -32,7 +32,7 @@ class Mentors extends Component {
         "../static/images/kim.jpg",
         thumbnailWidth: 960,
         thumbnailHeight: 956,
-        caption: "Kim-Nhi Ngo"
+        caption: "Kim-Nhi Ngo - Sophomore at UT Dallas, computer science major, creates content for and manages the social media for UTD Comet Life (> 6k followers)"
       },
       {
         src: "../static/images/IMG_3266.jpg",
@@ -40,7 +40,7 @@ class Mentors extends Component {
           "../static/images/IMG_3266.jpg",
         thumbnailWidth: 640,
         thumbnailHeight: 424,
-        caption: "Samridhi Ganguly"
+        caption: "Samridhi Ganguly - Freshman majoring in Computer Science, a team-player and committed to making people’s lives easier, effective, and efficient"
       },
     ];
     return (
