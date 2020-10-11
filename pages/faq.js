@@ -27,7 +27,7 @@ export default () => (
           <br></br>
           <p>
           <h2>What is Granite?</h2>
-          <h4>Granite is our friendly chatbot that's always there to offer you assistance in growing your business via resources, captial opportunities, and mentorship connections. Granite is named after the mineral, which is believed to enable one to see the big picture, banish skepticism, and defeat negativity.</h4>
+          <h4>Granite is our friendly chatbot that's always there to offer you assistance in growing your business via resources, capital opportunities, and mentorship connections. Granite is named after the mineral, which is believed to enable one to see the big picture, banish skepticism, and defeat negativity.</h4>
           </p>
         </div>
       </div>
