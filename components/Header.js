@@ -11,10 +11,6 @@ const Header = (props) => (
         <Link href="/resources">
             Resource Submission
         </Link>
-        &nbsp;&nbsp;
-        <Link href="/workshop">
-            Workshop Submission
-        </Link>
     </header>
 )
 
